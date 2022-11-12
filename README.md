@@ -1,2 +1,2 @@
 # INTERNSHALA---Programming-with-Python
-Assignments
+Solutions to assignments
